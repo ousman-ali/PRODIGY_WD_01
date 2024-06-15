@@ -3,7 +3,7 @@
  const Contact = () => {
    return (
      <div className='contact-us'>
-       <h1>This is Contact<span>Page</span></h1>
+       <h1>This is Contact<span> Page</span></h1>
      </div>
    )
  }
